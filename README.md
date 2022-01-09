@@ -12,3 +12,7 @@ Supporting files are:
     - set2a.txt
     - set2b.txt
     - set2c.txt
+
+  * All others:
+    - Yeast_training.txt
+    - Yeast_test.txt
